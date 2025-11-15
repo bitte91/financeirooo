@@ -1,0 +1,5 @@
+{
+  "name": "Assistente Financeiro Pessoal",
+  "description": "Um aplicativo para ajudar a controlar suas finanças pessoais, com foco em gerenciar e quitar dívidas de cartão de crédito através da análise de faturas e simulação de cenários de pagamento com IA.",
+  "requestFramePermissions": []
+}
